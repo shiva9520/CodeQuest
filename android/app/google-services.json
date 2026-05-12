@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996428313409",
+    "project_id": "codequest-48a35",
+    "storage_bucket": "codequest-48a35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996428313409:android:2403ef62ab8ed65f15e7c0",
+        "android_client_info": {
+          "package_name": "com.codequest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsyF1KgMr7RwyEAnpCNKVFZtZQzU2DInY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
